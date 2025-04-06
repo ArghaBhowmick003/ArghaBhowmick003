@@ -11,7 +11,7 @@
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
-<img height="40" src="https://skillicons.dev/icons?i=c,cpp,git,github,html,css,js,figma"/><br>
+<img height="40" src="https://skillicons.dev/icons?i=python,git,github,html,css,flask,figma"/><br>
 
 
 <hr width="36%" >
